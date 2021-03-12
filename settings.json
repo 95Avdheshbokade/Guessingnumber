@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "AREAOFRECTANGLE.C": "cpp",
+        "bitset": "cpp",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
